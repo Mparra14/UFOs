@@ -23,7 +23,7 @@ If the user would like to search for a city, to refine their search they can als
 
 If the user would like to search for the shape of the UFO, they can type it on the search bar. This refines the search even further, to specify the exact date and place the UFO appeared. For example, a shape like a triangle, they would type a "triangle" and the results would show up on the table; this can be seen on the images below. Keep in mind that the shapes are very specific to the reportings so please check the data table to search correctly.
 
-![shape_search]()
+![shape_search](https://github.com/Mparra14/UFOs/blob/main/shape_search.png)
 ![shape_results]()
 
 
